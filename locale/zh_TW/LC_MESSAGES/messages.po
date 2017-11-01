@@ -1,0 +1,623 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Data"
+msgstr "數據"
+
+msgid "Country/Region"
+msgstr ""
+
+msgid "Full Time Result"
+msgstr "全場賽果"
+
+msgid "Handicap"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "KickOff"
+msgstr ""
+
+msgid "Last"
+msgstr ""
+
+msgid "Events"
+msgstr "事件"
+
+msgid "Goals"
+msgstr "進球"
+
+msgid "Penalty Shootout"
+msgstr "點球對決"
+
+msgid "Corners"
+msgstr "角球"
+
+msgid "Corners (Half)"
+msgstr ""
+
+msgid "Yellow Card"
+msgstr "黃牌"
+
+msgid "Red Card"
+msgstr "紅牌"
+
+msgid "Throw-ins"
+msgstr ""
+
+msgid "Free kicks"
+msgstr ""
+
+msgid "Goal kicks"
+msgstr ""
+
+msgid "Penalties"
+msgstr "判罰"
+
+msgid "Injuries"
+msgstr "傷停"
+
+msgid "Substitutions"
+msgstr "換人"
+
+msgid "Attacks"
+msgstr "進攻"
+
+msgid "Dangerous Attacks"
+msgstr "危險進攻"
+
+msgid "On Target"
+msgstr "射正球門"
+
+msgid "Off Target"
+msgstr "射偏球門"
+
+msgid "Possession %"
+msgstr "球權％"
+
+msgid "Lineups"
+msgstr "陣容"
+
+msgid "Lineup"
+msgstr "陣容"
+
+msgid "Substitutes"
+msgstr "替補"
+
+msgid "Prematch Analytics"
+msgstr ""
+
+msgid "Avg. Half Goals"
+msgstr ""
+
+msgid "Avg. Goals"
+msgstr ""
+
+msgid "Avg. Half Losts"
+msgstr ""
+
+msgid "Avg. Losts"
+msgstr ""
+
+msgid "Avg. Corners"
+msgstr ""
+
+msgid "Home"
+msgstr "主場"
+
+msgid "Away"
+msgstr "客場"
+
+msgid "Total"
+msgstr ""
+
+msgid "Pts"
+msgstr ""
+
+msgid "Picks"
+msgstr ""
+
+msgid "Asian Handicap"
+msgstr "亞洲讓分盤"
+
+msgid "Total Goals"
+msgstr "進球總數"
+
+msgid "Over"
+msgstr ""
+
+msgid "Under"
+msgstr ""
+
+msgid "Draw"
+msgstr ""
+
+msgid "1st Half Asian Handicap"
+msgstr ""
+
+msgid "Moneyline"
+msgstr ""
+
+msgid "Spread"
+msgstr ""
+
+msgid "Spread (Half)"
+msgstr ""
+
+msgid "Total Points"
+msgstr ""
+
+msgid "Total Points (Half)"
+msgstr ""
+
+msgid "Quarter - Handicap"
+msgstr ""
+
+msgid "Quarter - Total (2-Way)"
+msgstr ""
+
+msgid "1st Half Goal Line"
+msgstr ""
+
+msgid "Asian Corners"
+msgstr "亞洲盤角球"
+
+msgid "1st Half Asian Corners"
+msgstr ""
+
+msgid "Match Winner"
+msgstr "比賽獲勝者"
+
+msgid "To Win Match"
+msgstr "比賽獲勝"
+
+msgid "Puck Line"
+msgstr ""
+
+msgid "Game Total"
+msgstr "比賽總分"
+
+msgid "Total 2-Way"
+msgstr "總分 二項"
+
+msgid "Handicap 2-Way"
+msgstr "讓分盤 2項"
+
+msgid "Run Line"
+msgstr "讓壘"
+
+msgid "Money Line"
+msgstr "強弱盤賠率"
+
+msgid "Money Line (Half)"
+msgstr ""
+
+msgid "Match Winner 2-Way"
+msgstr "比賽獲勝者 二項"
+
+msgid "Total Points 2-Way"
+msgstr "總分 2項"
+
+msgid "Match Handicap"
+msgstr "比賽讓分盤"
+
+msgid "Match Total"
+msgstr "比賽總得分"
+
+msgid "VIP"
+msgstr ""
+
+msgid "Matches played"
+msgstr "已賽場次"
+
+msgid "Total home wins"
+msgstr "主勝總場數"
+
+msgid "Total draws"
+msgstr "和局總場數"
+
+msgid "Total away wins"
+msgstr "客勝總場數"
+
+msgid "Goals per match"
+msgstr "場均進球"
+
+msgid "Goals per match, home team"
+msgstr "主場場均進球"
+
+msgid "Goals per match, away team"
+msgstr "客場場均進球"
+
+msgid "Game Points"
+msgstr "比賽得分"
+
+msgid "Points per match"
+msgstr "每場賽事得分數"
+
+msgid "Points per match, home team"
+msgstr "主場場均得分數"
+
+msgid "Points per match, away team"
+msgstr "客場場均得分數"
+
+msgid "Runs"
+msgstr "得分"
+
+msgid "Runs per match"
+msgstr "每場得分"
+
+msgid "Runs per match, home team"
+msgstr "主場每場得分"
+
+msgid "Runs per match, away team"
+msgstr "客場每場得分"
+
+msgid "Sets"
+msgstr "局數"
+
+msgid "Sets per match"
+msgstr "每場賽事得分數"
+
+msgid "Sets per match, home team"
+msgstr "主場每場得分"
+
+msgid "Sets per match, away team"
+msgstr "客場每場得分"
+
+msgid "Top 5 offensive teams"
+msgstr "入球最多的五隊"
+
+msgid "Team"
+msgstr "球隊"
+
+msgid "Goals Scored"
+msgstr "進球"
+
+msgid "Top 5 defensive teams"
+msgstr "失球最少的五隊"
+
+msgid "Goals Conceded"
+msgstr "失球"
+
+msgid "Shots"
+msgstr "射門"
+
+msgid "Goals on Power Play"
+msgstr "以少打多進球"
+
+msgid "Login"
+msgstr "登入"
+
+msgid "Login with..."
+msgstr "使用登录"
+
+msgid "User Settings"
+msgstr ""
+
+msgid "App"
+msgstr ""
+
+msgid "In Play"
+msgstr "正在進行"
+
+msgid "Fixtures"
+msgstr "賽程"
+
+msgid "Results"
+msgstr "結果"
+
+msgid "More"
+msgstr "更多"
+
+msgid "Live Stream"
+msgstr "視頻直播"
+
+msgid "Replay"
+msgstr "錄像"
+
+msgid "Dropping Odds"
+msgstr ""
+
+msgid "Sports"
+msgstr ""
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Check-In"
+msgstr ""
+
+msgid "User"
+msgstr "用戶"
+
+msgid "Orders"
+msgstr ""
+
+msgid "Favorite"
+msgstr "收藏"
+
+msgid "Settings"
+msgstr "設置"
+
+msgid "Logout"
+msgstr "登出"
+
+msgid "Contact Us"
+msgstr "聯絡我們"
+
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+msgid "Terms of Service"
+msgstr "服務條款"
+
+msgid "News"
+msgstr ""
+
+msgid "Place Pick"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Postponed"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Matches"
+msgstr "比賽"
+
+msgid "Rank"
+msgstr "排名"
+
+msgid "Photos"
+msgstr "圖片"
+
+msgid "Analytics"
+msgstr "分析"
+
+msgid "As Home"
+msgstr ""
+
+msgid "As Away"
+msgstr ""
+
+msgid "As Any"
+msgstr ""
+
+msgid "Abandoned"
+msgstr ""
+
+msgid "Walkover"
+msgstr ""
+
+msgid "Time In Opponent's 22"
+msgstr "在對方球隊22碼線的時間"
+
+msgid "Possession"
+msgstr "球權"
+
+msgid "10 Minute Possession"
+msgstr "10分鍾球權"
+
+msgid "Tries"
+msgstr "觸地得分"
+
+msgid "Comments"
+msgstr ""
+
+msgid "Last 10 Mins Score"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Pricing"
+msgstr ""
+
+msgid "Aces"
+msgstr "發球得分"
+
+msgid "Double Faults"
+msgstr "雙發失誤"
+
+#, fuzzy, php-format
+msgid "Win % 1st Serve"
+msgstr "％首次發球得分"
+
+msgid "Break Point Conversions"
+msgstr "破發成功率"
+
+msgid "Singles - Men"
+msgstr ""
+
+msgid "Doubles - Men"
+msgstr ""
+
+msgid "Singles - Women"
+msgstr ""
+
+msgid "Doubles - Women"
+msgstr ""
+
+msgid "Top Lists"
+msgstr "最佳名單"
+
+msgid "Player"
+msgstr ""
+
+msgid "Assists"
+msgstr "助攻"
+
+msgid "Cards"
+msgstr "牌"
+
+msgid "Yellow Red Card"
+msgstr ""
+
+msgid "Interrupted"
+msgstr ""
+
+msgid "Weather"
+msgstr "天氣"
+
+msgid "Stadium"
+msgstr ""
+
+msgid "Pitch"
+msgstr "場地"
+
+msgid "Round"
+msgstr "輪"
+
+msgid "Home Pitcher"
+msgstr "主隊投手"
+
+msgid "Away Pitcher"
+msgstr "客隊投手"
+
+msgid "Referee"
+msgstr "裁判"
+
+msgid "Home Manager"
+msgstr "主隊經理"
+
+msgid "Away Manager"
+msgstr "客隊經理"
+
+msgid "Charts"
+msgstr ""
+
+msgid "Vip Data"
+msgstr ""
+
+msgid "History"
+msgstr "交戰歷史"
+
+msgid "League Table"
+msgstr "積分榜"
+
+msgid "Summary"
+msgstr ""
+
+msgid "Prev"
+msgstr "上一頁"
+
+msgid "Next"
+msgstr "下一頁"
+
+msgid "VIP Expires"
+msgstr ""
+
+msgid "API Token"
+msgstr ""
+
+msgid "Replay & Highlights"
+msgstr "錄像集錦"
+
+msgid "Live Streaming"
+msgstr "視頻直播"
+
+msgid "URL"
+msgstr ""
+
+msgid "Add URL"
+msgstr ""
+
+msgid "Overall"
+msgstr "總體"
+
+msgid "Server Error"
+msgstr ""
+
+msgid "League"
+msgstr "聯賽"
+
+msgid "Points Won on Serve"
+msgstr "發球局贏得分數"
+
+msgid "Longest Streak"
+msgstr "最長連勝"
+
+msgid "Table"
+msgstr "積分榜"
+
+msgid "Droppping Odds"
+msgstr ""
+
+msgid "Head to Head"
+msgstr ""
+
+msgid "Home History"
+msgstr ""
+
+msgid "Away History"
+msgstr ""
+
+msgid "League History"
+msgstr ""
+
+msgid "Not Found"
+msgstr ""
+
+msgid "3 Pts"
+msgstr "3分球"
+
+msgid "2 Pts"
+msgstr "2分球"
+
+msgid "Ft"
+msgstr "罰球"
+
+msgid "Time Outs#T.O"
+msgstr "暫停"
+
+msgid "Fouls"
+msgstr "犯規"
+
+msgid "Ft %"
+msgstr "罰球命中率"
+
+#~ msgid "Schedule"
+#~ msgstr "賽程"
+
+#~ msgid "Ended"
+#~ msgstr "最近結束"
+
+#~ msgid "Goal Line"
+#~ msgstr "大小盤"
+
+#~ msgid "League Rank"
+#~ msgstr "聯賽排名"
+
+#~ msgid "Results for %q%"
+#~ msgstr "%q% 的結果"
+
+#~ msgid "Videos"
+#~ msgstr "視頻"
+
+#~ msgid "Total Corner"
+#~ msgstr "角球總數"
+
+#~ msgid "Strategy"
+#~ msgstr "策略"
+
+#~ msgid "Result"
+#~ msgstr "結果"

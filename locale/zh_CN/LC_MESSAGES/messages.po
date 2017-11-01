@@ -1,0 +1,647 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Data"
+msgstr "数据"
+
+msgid "Country/Region"
+msgstr "国家/地区"
+
+msgid "Full Time Result"
+msgstr "全场赛果"
+
+msgid "Handicap"
+msgstr "让分盘"
+
+msgid "Start"
+msgstr "初"
+
+msgid "KickOff"
+msgstr "开球"
+
+msgid "Last"
+msgstr "即"
+
+msgid "Events"
+msgstr "事件"
+
+msgid "Goals"
+msgstr "进球"
+
+msgid "Penalty Shootout"
+msgstr "点球对决"
+
+msgid "Corners"
+msgstr "角球"
+
+msgid "Corners (Half)"
+msgstr "半场角球"
+
+msgid "Yellow Card"
+msgstr "黄牌"
+
+msgid "Red Card"
+msgstr "红牌"
+
+msgid "Throw-ins"
+msgstr "掷界外球"
+
+msgid "Free kicks"
+msgstr "任意球"
+
+msgid "Goal kicks"
+msgstr "球门球"
+
+msgid "Penalties"
+msgstr "判罚"
+
+msgid "Injuries"
+msgstr "伤停"
+
+msgid "Substitutions"
+msgstr "换人"
+
+msgid "Attacks"
+msgstr "进攻"
+
+msgid "Dangerous Attacks"
+msgstr "危险进攻"
+
+msgid "On Target"
+msgstr "射正球门"
+
+msgid "Off Target"
+msgstr "射偏球门"
+
+msgid "Possession %"
+msgstr "球权％"
+
+msgid "Lineups"
+msgstr "阵容"
+
+msgid "Lineup"
+msgstr "阵容"
+
+msgid "Substitutes"
+msgstr "替补"
+
+msgid "Prematch Analytics"
+msgstr "赛前分析"
+
+msgid "Avg. Half Goals"
+msgstr "场均半场进球"
+
+msgid "Avg. Goals"
+msgstr "场均进球"
+
+msgid "Avg. Half Losts"
+msgstr "场均半场失球"
+
+msgid "Avg. Losts"
+msgstr "场均失球"
+
+msgid "Avg. Corners"
+msgstr "场均角球"
+
+msgid "Home"
+msgstr "主场"
+
+msgid "Away"
+msgstr "客场"
+
+msgid "Total"
+msgstr "总计"
+
+msgid "Pts"
+msgstr "得分"
+
+msgid "Picks"
+msgstr "竞猜"
+
+msgid "Asian Handicap"
+msgstr "亚洲让分盘"
+
+msgid "Total Goals"
+msgstr "进球总数"
+
+msgid "Over"
+msgstr ""
+
+msgid "Under"
+msgstr ""
+
+msgid "Draw"
+msgstr ""
+
+msgid "1st Half Asian Handicap"
+msgstr "上半场亚洲让分盘"
+
+msgid "Moneyline"
+msgstr "强弱盘赔率"
+
+msgid "Spread"
+msgstr ""
+
+msgid "Spread (Half)"
+msgstr ""
+
+msgid "Total Points"
+msgstr "总分"
+
+msgid "Total Points (Half)"
+msgstr "半场总分"
+
+msgid "Quarter - Handicap"
+msgstr ""
+
+msgid "Quarter - Total (2-Way)"
+msgstr ""
+
+msgid "1st Half Goal Line"
+msgstr ""
+
+msgid "Asian Corners"
+msgstr "亚洲盘角球"
+
+msgid "1st Half Asian Corners"
+msgstr "上半场亚洲盘角球"
+
+msgid "Match Winner"
+msgstr "比赛获胜者"
+
+msgid "To Win Match"
+msgstr "比赛获胜"
+
+msgid "Puck Line"
+msgstr ""
+
+msgid "Game Total"
+msgstr "比赛总分"
+
+msgid "Total 2-Way"
+msgstr "总分 二项"
+
+msgid "Handicap 2-Way"
+msgstr "让分盘 2项"
+
+msgid "Run Line"
+msgstr "让垒"
+
+msgid "Money Line"
+msgstr "强弱盘赔率"
+
+msgid "Money Line (Half)"
+msgstr "半场强弱盘赔率"
+
+msgid "Match Winner 2-Way"
+msgstr "比赛获胜者 二项"
+
+msgid "Total Points 2-Way"
+msgstr "总分 2项"
+
+msgid "Match Handicap"
+msgstr "比赛让分盘"
+
+msgid "Match Total"
+msgstr "比赛总分"
+
+msgid "VIP"
+msgstr ""
+
+msgid "Matches played"
+msgstr "已赛场次"
+
+msgid "Total home wins"
+msgstr "主胜总场次"
+
+msgid "Total draws"
+msgstr "平局总场次"
+
+msgid "Total away wins"
+msgstr "客胜总场次"
+
+msgid "Goals per match"
+msgstr "场均进球"
+
+msgid "Goals per match, home team"
+msgstr "主场场均进球"
+
+msgid "Goals per match, away team"
+msgstr "客场场均进球"
+
+msgid "Game Points"
+msgstr "比赛得分"
+
+msgid "Points per match"
+msgstr "每场赛事得分数"
+
+msgid "Points per match, home team"
+msgstr "主场场均得分数"
+
+msgid "Points per match, away team"
+msgstr "客场场均得分数"
+
+msgid "Runs"
+msgstr "得分"
+
+msgid "Runs per match"
+msgstr "每场得分"
+
+msgid "Runs per match, home team"
+msgstr "主场每场得分"
+
+msgid "Runs per match, away team"
+msgstr "客场每场得分"
+
+msgid "Sets"
+msgstr "局数"
+
+msgid "Sets per match"
+msgstr "每场赛事得分数"
+
+msgid "Sets per match, home team"
+msgstr "主场每场得分"
+
+msgid "Sets per match, away team"
+msgstr "客场每场得分"
+
+msgid "Top 5 offensive teams"
+msgstr "入球最多的五队"
+
+msgid "Team"
+msgstr "球队"
+
+msgid "Goals Scored"
+msgstr "进球"
+
+msgid "Top 5 defensive teams"
+msgstr "失球最少的五队"
+
+msgid "Goals Conceded"
+msgstr "失球"
+
+msgid "Shots"
+msgstr "射门"
+
+msgid "Goals on Power Play"
+msgstr "以多打少进球"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Login with..."
+msgstr "登录..."
+
+msgid "User Settings"
+msgstr "用户设置"
+
+msgid "App"
+msgstr ""
+
+msgid "In Play"
+msgstr "正在进行"
+
+msgid "Fixtures"
+msgstr "赛程"
+
+msgid "Results"
+msgstr "结果"
+
+msgid "More"
+msgstr "更多"
+
+msgid "Live Stream"
+msgstr "视频直播"
+
+msgid "Replay"
+msgstr "录像"
+
+msgid "Dropping Odds"
+msgstr ""
+
+msgid "Sports"
+msgstr ""
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Check-In"
+msgstr "签到"
+
+msgid "User"
+msgstr "用户"
+
+msgid "Orders"
+msgstr "订单"
+
+msgid "Favorite"
+msgstr "收藏"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Logout"
+msgstr "退出"
+
+msgid "Contact Us"
+msgstr "联系我们"
+
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+msgid "Terms of Service"
+msgstr "服务协议"
+
+msgid "News"
+msgstr "新闻"
+
+msgid "Place Pick"
+msgstr "竞猜"
+
+msgid "Order"
+msgstr "订单"
+
+msgid "Postponed"
+msgstr "已推迟"
+
+msgid "Cancelled"
+msgstr "已取消"
+
+msgid "View"
+msgstr "查看"
+
+msgid "Matches"
+msgstr "比赛"
+
+msgid "Rank"
+msgstr "排行"
+
+msgid "Photos"
+msgstr "图库"
+
+msgid "Analytics"
+msgstr "数据分析"
+
+msgid "As Home"
+msgstr ""
+
+msgid "As Away"
+msgstr ""
+
+msgid "As Any"
+msgstr ""
+
+msgid "Abandoned"
+msgstr ""
+
+msgid "Walkover"
+msgstr ""
+
+msgid "Time In Opponent's 22"
+msgstr "在对方球队22码线的时间"
+
+msgid "Possession"
+msgstr "球权"
+
+msgid "10 Minute Possession"
+msgstr "10分钟球权"
+
+msgid "Tries"
+msgstr "触地得分"
+
+msgid "Comments"
+msgstr "评论"
+
+msgid "Last 10 Mins Score"
+msgstr "最后10分钟得分"
+
+msgid "Date"
+msgstr ""
+
+msgid "Pricing"
+msgstr ""
+
+msgid "Aces"
+msgstr "发球得分"
+
+msgid "Double Faults"
+msgstr "双发失误"
+
+#, php-format
+msgid "Win % 1st Serve"
+msgstr "％首次发球得分"
+
+msgid "Break Point Conversions"
+msgstr "破发成功率"
+
+msgid "Singles - Men"
+msgstr "男单"
+
+msgid "Doubles - Men"
+msgstr "男双"
+
+msgid "Singles - Women"
+msgstr "女单"
+
+msgid "Doubles - Women"
+msgstr "女双"
+
+msgid "Top Lists"
+msgstr "最佳名单"
+
+msgid "Player"
+msgstr "选手"
+
+msgid "Assists"
+msgstr "助攻"
+
+msgid "Cards"
+msgstr "牌"
+
+msgid "Yellow Red Card"
+msgstr "黄红牌"
+
+msgid "Interrupted"
+msgstr ""
+
+msgid "Weather"
+msgstr "天气"
+
+msgid "Stadium"
+msgstr "体育场"
+
+msgid "Pitch"
+msgstr "场地"
+
+msgid "Round"
+msgstr "轮"
+
+msgid "Home Pitcher"
+msgstr "主队投手"
+
+msgid "Away Pitcher"
+msgstr "客队投手"
+
+msgid "Referee"
+msgstr "裁判"
+
+msgid "Home Manager"
+msgstr "主队经理"
+
+msgid "Away Manager"
+msgstr "客队经理"
+
+msgid "Charts"
+msgstr ""
+
+msgid "Vip Data"
+msgstr ""
+
+msgid "History"
+msgstr "交战历史"
+
+msgid "League Table"
+msgstr "积分榜"
+
+msgid "Summary"
+msgstr ""
+
+msgid "Prev"
+msgstr "上一页"
+
+msgid "Next"
+msgstr "下一页"
+
+msgid "VIP Expires"
+msgstr ""
+
+msgid "API Token"
+msgstr ""
+
+msgid "Replay & Highlights"
+msgstr "录像集锦"
+
+msgid "Live Streaming"
+msgstr "直播视频"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Add URL"
+msgstr "添加 URL"
+
+msgid "Overall"
+msgstr "总体"
+
+msgid "Server Error"
+msgstr ""
+
+msgid "League"
+msgstr "联赛"
+
+msgid "Points Won on Serve"
+msgstr "发球局赢得分数"
+
+msgid "Longest Streak"
+msgstr "最长连胜"
+
+msgid "Table"
+msgstr "积分榜"
+
+msgid "Droppping Odds"
+msgstr ""
+
+msgid "Head to Head"
+msgstr ""
+
+msgid "Home History"
+msgstr "主队历史"
+
+msgid "Away History"
+msgstr "客队历史"
+
+msgid "League History"
+msgstr "联赛历史"
+
+msgid "Not Found"
+msgstr "Not Found"
+
+msgid "3 Pts"
+msgstr "3分球"
+
+msgid "2 Pts"
+msgstr "2分球"
+
+msgid "Ft"
+msgstr "罚球"
+
+msgid "Time Outs#T.O"
+msgstr "暂停"
+
+msgid "Fouls"
+msgstr "犯规"
+
+msgid "Ft %"
+msgstr "罚球命中率"
+
+#~ msgid "Schedule"
+#~ msgstr "赛程"
+
+#~ msgid "Ended"
+#~ msgstr "最近结束"
+
+#~ msgid "Goal Line"
+#~ msgstr "大小盘"
+
+#~ msgid "League Rank"
+#~ msgstr "联赛排名"
+
+#~ msgid "Results for %q%"
+#~ msgstr "查询 %q% 的结果"
+
+#~ msgid "Videos"
+#~ msgstr "视频"
+
+#~ msgid "Total Corner"
+#~ msgstr "角球总数"
+
+#~ msgid "Strategy"
+#~ msgstr "策略"
+
+#~ msgid "Count"
+#~ msgstr "次数"
+
+#~ msgid "Result"
+#~ msgstr "结果"
+
+#~ msgid "Buy Lowest"
+#~ msgstr "买赔率低的"
+
+#~ msgid "Buy Highest"
+#~ msgstr "买赔率高的"
+
+#~ msgid "Buy Home Win"
+#~ msgstr "买主队赢"
+
+#~ msgid "Buy Draw"
+#~ msgstr "买平局"
+
+#~ msgid "Buy Away Win"
+#~ msgstr "买客队赢"
+
+#~ msgid "Buy Over"
+#~ msgstr "买大"
+
+#~ msgid "Buy Under"
+#~ msgstr "买小"

@@ -1,0 +1,599 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Data"
+msgstr ""
+
+msgid "Country/Region"
+msgstr ""
+
+msgid "Full Time Result"
+msgstr ""
+
+msgid "Handicap"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "KickOff"
+msgstr ""
+
+msgid "Last"
+msgstr ""
+
+msgid "Events"
+msgstr ""
+
+msgid "Goals"
+msgstr "Gol"
+
+msgid "Penalty Shootout"
+msgstr "Calci di rigore"
+
+msgid "Corners"
+msgstr ""
+
+msgid "Corners (Half)"
+msgstr ""
+
+msgid "Yellow Card"
+msgstr "Cartellini gialli"
+
+msgid "Red Card"
+msgstr "Cartellini rossi"
+
+msgid "Throw-ins"
+msgstr ""
+
+msgid "Free kicks"
+msgstr ""
+
+msgid "Goal kicks"
+msgstr ""
+
+msgid "Penalties"
+msgstr "Penalità"
+
+msgid "Injuries"
+msgstr "Infortunati"
+
+msgid "Substitutions"
+msgstr ""
+
+msgid "Attacks"
+msgstr "Attacco"
+
+msgid "Dangerous Attacks"
+msgstr "Attacco pericoloso"
+
+msgid "On Target"
+msgstr "Tiri in porta"
+
+msgid "Off Target"
+msgstr "Tiri fuori porta"
+
+msgid "Possession %"
+msgstr "% possesso"
+
+msgid "Lineups"
+msgstr "FORMAZIONI"
+
+msgid "Lineup"
+msgstr "SCHIERAMENTO"
+
+msgid "Substitutes"
+msgstr "RISERVE"
+
+msgid "Prematch Analytics"
+msgstr ""
+
+msgid "Avg. Half Goals"
+msgstr ""
+
+msgid "Avg. Goals"
+msgstr ""
+
+msgid "Avg. Half Losts"
+msgstr ""
+
+msgid "Avg. Losts"
+msgstr ""
+
+msgid "Avg. Corners"
+msgstr ""
+
+msgid "Home"
+msgstr "In Casa"
+
+msgid "Away"
+msgstr "Trasferta"
+
+msgid "Total"
+msgstr ""
+
+msgid "Pts"
+msgstr ""
+
+msgid "Picks"
+msgstr ""
+
+msgid "Asian Handicap"
+msgstr ""
+
+msgid "Total Goals"
+msgstr "Somma goal"
+
+msgid "Over"
+msgstr ""
+
+msgid "Under"
+msgstr ""
+
+msgid "Draw"
+msgstr ""
+
+msgid "1st Half Asian Handicap"
+msgstr ""
+
+msgid "Moneyline"
+msgstr ""
+
+msgid "Spread"
+msgstr ""
+
+msgid "Spread (Half)"
+msgstr ""
+
+msgid "Total Points"
+msgstr ""
+
+msgid "Total Points (Half)"
+msgstr ""
+
+msgid "Quarter - Handicap"
+msgstr ""
+
+msgid "Quarter - Total (2-Way)"
+msgstr ""
+
+msgid "1st Half Goal Line"
+msgstr ""
+
+msgid "Asian Corners"
+msgstr "Calci d'angolo asiatici"
+
+msgid "1st Half Asian Corners"
+msgstr ""
+
+msgid "Match Winner"
+msgstr "Vincente incontro"
+
+msgid "To Win Match"
+msgstr "Vincente incontro"
+
+msgid "Puck Line"
+msgstr "Vincente con handicap"
+
+msgid "Game Total"
+msgstr "Totale incontro"
+
+msgid "Total 2-Way"
+msgstr ""
+
+msgid "Handicap 2-Way"
+msgstr ""
+
+msgid "Run Line"
+msgstr "Vincente con handicap"
+
+msgid "Money Line"
+msgstr "Vincente"
+
+msgid "Money Line (Half)"
+msgstr ""
+
+msgid "Match Winner 2-Way"
+msgstr "Vincente incontro - 2 scelte"
+
+msgid "Total Points 2-Way"
+msgstr ""
+
+msgid "Match Handicap"
+msgstr "Vincente con handicap"
+
+msgid "Match Total"
+msgstr ""
+
+msgid "VIP"
+msgstr ""
+
+msgid "Matches played"
+msgstr "Partite disputate"
+
+msgid "Total home wins"
+msgstr "Totale Vittorie Casalinghe"
+
+msgid "Total draws"
+msgstr "Totale Pareggi"
+
+msgid "Total away wins"
+msgstr "Totale Vittorie in Trasferta"
+
+msgid "Goals per match"
+msgstr "Gol a partita"
+
+msgid "Goals per match, home team"
+msgstr "Gol per match casalinghi"
+
+msgid "Goals per match, away team"
+msgstr "Gol in trasferta"
+
+msgid "Game Points"
+msgstr "Punti"
+
+msgid "Points per match"
+msgstr "Punti per match "
+
+msgid "Points per match, home team"
+msgstr "Punti per match, squadra di casa"
+
+msgid "Points per match, away team"
+msgstr "Punti per match, squadra ospite"
+
+msgid "Runs"
+msgstr "Punti"
+
+msgid "Runs per match"
+msgstr "Run per match"
+
+msgid "Runs per match, home team"
+msgstr "Run per match, squadra di casa"
+
+msgid "Runs per match, away team"
+msgstr "Run per match, squadra ospite"
+
+msgid "Sets"
+msgstr "Set"
+
+msgid "Sets per match"
+msgstr "Set per match"
+
+msgid "Sets per match, home team"
+msgstr "Set per match, squadra di casa"
+
+msgid "Sets per match, away team"
+msgstr "Set per match, squadra ospite"
+
+msgid "Top 5 offensive teams"
+msgstr "5 Migliori Attacchi"
+
+msgid "Team"
+msgstr "Squadra"
+
+msgid "Goals Scored"
+msgstr "Gol segnati"
+
+msgid "Top 5 defensive teams"
+msgstr "5 Migliori Difese"
+
+msgid "Goals Conceded"
+msgstr "Gol subiti"
+
+msgid "Shots"
+msgstr "Tiri"
+
+msgid "Goals on Power Play"
+msgstr "Goal in power play"
+
+msgid "Login"
+msgstr ""
+
+msgid "Login with..."
+msgstr ""
+
+msgid "User Settings"
+msgstr ""
+
+msgid "App"
+msgstr ""
+
+msgid "In Play"
+msgstr "Live"
+
+msgid "Fixtures"
+msgstr "Diario Live"
+
+msgid "Results"
+msgstr "Risultati"
+
+msgid "More"
+msgstr "Di Più"
+
+msgid "Live Stream"
+msgstr ""
+
+msgid "Replay"
+msgstr ""
+
+msgid "Dropping Odds"
+msgstr ""
+
+msgid "Sports"
+msgstr ""
+
+msgid "Search"
+msgstr "Ricerca"
+
+msgid "Check-In"
+msgstr ""
+
+msgid "User"
+msgstr "Utente"
+
+msgid "Orders"
+msgstr ""
+
+msgid "Favorite"
+msgstr "favorito"
+
+msgid "Settings"
+msgstr "impostazioni"
+
+msgid "Logout"
+msgstr ""
+
+msgid "Contact Us"
+msgstr "Contattaci"
+
+msgid "Privacy Policy"
+msgstr ""
+
+msgid "Terms of Service"
+msgstr "Termini e condizioni"
+
+msgid "News"
+msgstr ""
+
+msgid "Place Pick"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Postponed"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Matches"
+msgstr ""
+
+msgid "Rank"
+msgstr ""
+
+msgid "Photos"
+msgstr ""
+
+msgid "Analytics"
+msgstr ""
+
+msgid "As Home"
+msgstr ""
+
+msgid "As Away"
+msgstr ""
+
+msgid "As Any"
+msgstr ""
+
+msgid "Abandoned"
+msgstr ""
+
+msgid "Walkover"
+msgstr ""
+
+msgid "Time In Opponent's 22"
+msgstr ""
+
+msgid "Possession"
+msgstr ""
+
+msgid "10 Minute Possession"
+msgstr ""
+
+msgid "Tries"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Last 10 Mins Score"
+msgstr "Punteggio ultimi 10 min."
+
+msgid "Date"
+msgstr ""
+
+msgid "Pricing"
+msgstr ""
+
+msgid "Aces"
+msgstr "Ace"
+
+msgid "Double Faults"
+msgstr "Doppi falli"
+
+#, php-format
+msgid "Win % 1st Serve"
+msgstr "% punti vinti al 1º servizio"
+
+msgid "Break Point Conversions"
+msgstr "Break Point convertiti"
+
+msgid "Singles - Men"
+msgstr ""
+
+msgid "Doubles - Men"
+msgstr ""
+
+msgid "Singles - Women"
+msgstr ""
+
+msgid "Doubles - Women"
+msgstr ""
+
+msgid "Top Lists"
+msgstr "I Top"
+
+msgid "Player"
+msgstr ""
+
+msgid "Assists"
+msgstr "Assist"
+
+msgid "Cards"
+msgstr "Cartellini"
+
+msgid "Yellow Red Card"
+msgstr ""
+
+msgid "Interrupted"
+msgstr ""
+
+msgid "Weather"
+msgstr "Meteo"
+
+msgid "Stadium"
+msgstr "stadio"
+
+msgid "Pitch"
+msgstr "Campo"
+
+msgid "Round"
+msgstr ""
+
+msgid "Home Pitcher"
+msgstr ""
+
+msgid "Away Pitcher"
+msgstr ""
+
+msgid "Referee"
+msgstr "Arbitro"
+
+msgid "Home Manager"
+msgstr ""
+
+msgid "Away Manager"
+msgstr ""
+
+msgid "Charts"
+msgstr ""
+
+msgid "Vip Data"
+msgstr ""
+
+msgid "History"
+msgstr "Storia"
+
+msgid "League Table"
+msgstr "Classifica"
+
+msgid "Summary"
+msgstr ""
+
+msgid "Prev"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "VIP Expires"
+msgstr ""
+
+msgid "API Token"
+msgstr ""
+
+msgid "Replay & Highlights"
+msgstr ""
+
+msgid "Live Streaming"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Add URL"
+msgstr ""
+
+msgid "Overall"
+msgstr "Generale"
+
+msgid "Server Error"
+msgstr ""
+
+msgid "League"
+msgstr ""
+
+msgid "Points Won on Serve"
+msgstr "Punti al servizio"
+
+msgid "Longest Streak"
+msgstr "Serie di punti più lunga"
+
+msgid "Table"
+msgstr "Classifica"
+
+msgid "Droppping Odds"
+msgstr ""
+
+msgid "Head to Head"
+msgstr ""
+
+msgid "Home History"
+msgstr ""
+
+msgid "Away History"
+msgstr ""
+
+msgid "League History"
+msgstr ""
+
+msgid "Not Found"
+msgstr ""
+
+msgid "3 Pts"
+msgstr "Da 3"
+
+msgid "2 Pts"
+msgstr "Da 2"
+
+msgid "Ft"
+msgstr "TL"
+
+msgid "Time Outs#T.O"
+msgstr "Time out#TO"
+
+msgid "Fouls"
+msgstr "Falli"
+
+msgid "Ft %"
+msgstr ""
+
+#~ msgid "Schedule"
+#~ msgstr "Diario Live"
